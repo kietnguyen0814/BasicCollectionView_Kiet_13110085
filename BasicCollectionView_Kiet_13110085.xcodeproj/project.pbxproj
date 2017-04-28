@@ -15,6 +15,7 @@
 		2EA0F2281EB3997500CEDF44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EA0F2261EB3997500CEDF44 /* LaunchScreen.storyboard */; };
 		2EA0F2331EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA0F2321EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085Tests.swift */; };
 		2EA0F23E1EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA0F23D1EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085UITests.swift */; };
+		2EA0F24C1EB39F5E00CEDF44 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA0F24B1EB39F5E00CEDF44 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2EA0F2391EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasicCollectionView_Kiet_13110085UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EA0F23D1EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCollectionView_Kiet_13110085UITests.swift; sourceTree = "<group>"; };
 		2EA0F23F1EB3997500CEDF44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EA0F24B1EB39F5E00CEDF44 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				2EA0F21A1EB3997500CEDF44 /* AppDelegate.swift */,
 				2EA0F21C1EB3997500CEDF44 /* ViewController.swift */,
+				2EA0F24B1EB39F5E00CEDF44 /* MyCollectionViewCell.swift */,
 				2EA0F21E1EB3997500CEDF44 /* Main.storyboard */,
 				2EA0F2241EB3997500CEDF44 /* Assets.xcassets */,
 				2EA0F2261EB3997500CEDF44 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				2EA0F21D1EB3997500CEDF44 /* ViewController.swift in Sources */,
 				2EA0F21B1EB3997500CEDF44 /* AppDelegate.swift in Sources */,
+				2EA0F24C1EB39F5E00CEDF44 /* MyCollectionViewCell.swift in Sources */,
 				2EA0F2231EB3997500CEDF44 /* BasicCollectionView_Kiet_13110085.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
